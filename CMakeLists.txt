@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.20)
+project(Chapter_7)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(main.cpp main.cpp 1_point.cpp 1_point.h)
+add_executable(main2.cpp main2.cpp 2_point.cpp 2_point.h)
+add_executable(3_pays.cpp 3_pays.cpp)
+add_executable(4_robot.cpp 4_robot.cpp)
+add_executable(5_point.cpp 5_point.cpp)
+add_executable(6_point.cpp 6_point.cpp)
+add_executable(7_surcharges.cpp 7_surcharges.cpp)
+add_executable(8_objet.cpp 8_objet.cpp)
+add_executable(9_voiture.cpp 9_voiture.cpp)
+add_executable(10_message.cpp 10_message.cpp)
+add_executable(11_mailbox.cpp 11_mailbox.cpp)

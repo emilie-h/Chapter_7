@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Chapter_7"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="8_objet.cpp">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/8_objet.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 8_objet.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="8_objet.cpp/fast">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/8_objet.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 8_objet.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_surcharges.cpp">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/7_surcharges.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 7_surcharges.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="7_surcharges.cpp/fast">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/7_surcharges.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 7_surcharges.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6_point.cpp">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/6_point.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 6_point.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="6_point.cpp/fast">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/6_point.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 6_point.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_robot.cpp">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/4_robot.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_robot.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_robot.cpp/fast">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/4_robot.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_robot.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="10_message.cpp">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/10_message.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 10_message.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="10_message.cpp/fast">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/10_message.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 10_message.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_point.cpp">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/5_point.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 5_point.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_point.cpp/fast">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/5_point.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 5_point.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_pays.cpp">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/3_pays.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_pays.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_pays.cpp/fast">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/3_pays.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_pays.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main2.cpp">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/main2.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 main2.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main2.cpp/fast">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/main2.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 main2.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="11_mailbox.cpp">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/11_mailbox.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 11_mailbox.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="11_mailbox.cpp/fast">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/11_mailbox.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 11_mailbox.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="9_voiture.cpp">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/9_voiture.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 9_voiture.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="9_voiture.cpp/fast">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/9_voiture.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 9_voiture.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main.cpp">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/main.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 main.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main.cpp/fast">
+				<Option output="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/main.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 main.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/emilie.bressoud/CLionProjects/Chapter_7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/emilie.bressoud/CLionProjects/Chapter_7/10_message.cpp">
+			<Option target="10_message.cpp"/>
+		</Unit>
+		<Unit filename="/Users/emilie.bressoud/CLionProjects/Chapter_7/11_mailbox.cpp">
+			<Option target="11_mailbox.cpp"/>
+		</Unit>
+		<Unit filename="/Users/emilie.bressoud/CLionProjects/Chapter_7/1_point.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/Users/emilie.bressoud/CLionProjects/Chapter_7/1_point.h">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/Users/emilie.bressoud/CLionProjects/Chapter_7/2_point.cpp">
+			<Option target="main2.cpp"/>
+		</Unit>
+		<Unit filename="/Users/emilie.bressoud/CLionProjects/Chapter_7/2_point.h">
+			<Option target="main2.cpp"/>
+		</Unit>
+		<Unit filename="/Users/emilie.bressoud/CLionProjects/Chapter_7/3_pays.cpp">
+			<Option target="3_pays.cpp"/>
+		</Unit>
+		<Unit filename="/Users/emilie.bressoud/CLionProjects/Chapter_7/4_robot.cpp">
+			<Option target="4_robot.cpp"/>
+		</Unit>
+		<Unit filename="/Users/emilie.bressoud/CLionProjects/Chapter_7/5_point.cpp">
+			<Option target="5_point.cpp"/>
+		</Unit>
+		<Unit filename="/Users/emilie.bressoud/CLionProjects/Chapter_7/6_point.cpp">
+			<Option target="6_point.cpp"/>
+		</Unit>
+		<Unit filename="/Users/emilie.bressoud/CLionProjects/Chapter_7/7_surcharges.cpp">
+			<Option target="7_surcharges.cpp"/>
+		</Unit>
+		<Unit filename="/Users/emilie.bressoud/CLionProjects/Chapter_7/8_objet.cpp">
+			<Option target="8_objet.cpp"/>
+		</Unit>
+		<Unit filename="/Users/emilie.bressoud/CLionProjects/Chapter_7/9_voiture.cpp">
+			<Option target="9_voiture.cpp"/>
+		</Unit>
+		<Unit filename="/Users/emilie.bressoud/CLionProjects/Chapter_7/main.cpp">
+			<Option target="main.cpp"/>
+		</Unit>
+		<Unit filename="/Users/emilie.bressoud/CLionProjects/Chapter_7/main2.cpp">
+			<Option target="main2.cpp"/>
+		</Unit>
+		<Unit filename="/Users/emilie.bressoud/CLionProjects/Chapter_7/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

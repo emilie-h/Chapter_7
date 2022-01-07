@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/emilie.bressoud/CLionProjects/Chapter_7/10_message.cpp
+iostream
+-
+iomanip
+-
+sstream
+-
+string
+-
+ctime
+-
+chrono
+-
+thread
+-
+

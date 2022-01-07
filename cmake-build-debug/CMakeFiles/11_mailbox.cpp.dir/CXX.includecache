@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/emilie.bressoud/CLionProjects/Chapter_7/11_mailbox.cpp
+iostream
+-
+iomanip
+-
+algorithm
+-
+string
+-
+vector
+-
+
